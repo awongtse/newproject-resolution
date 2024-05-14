@@ -3,4 +3,4 @@ awongtse resolusi
 - membuat web sederhana
 - belajar bahasa pemograman
 - belajar dengan framework
-- belajar frontend, backend dan ui/ux
+- belajar full stack development
